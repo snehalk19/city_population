@@ -15,7 +15,7 @@ const port = 5555;
 const csv = require("csv-parser");
 const fs = require("fs");
 
-const filepath = "city_populan.csv";
+const filepath = "city_populations.csv";
 
 let rowsArr = [];
 let cityArr = [];
